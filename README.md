@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rubensdg10
 - 👀 I’m interested in physics
-- 🌱 I’m currently learning Cuantum Computing
+- 🌱 I’m currently learning Quantum Computing
 - 💞️ I’m looking to collaborate on Classical Mechanics and Quantum Mechanics
 
 <!---
